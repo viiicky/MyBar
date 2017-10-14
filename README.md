@@ -13,4 +13,4 @@ Further new items and products can be added.
 
 A product is nothing but an entry on the menu in the bar.
 
-Every product must have exactly one primary item and can have zero or more add on items.
+Every product must have exactly one primary item and can have zero or more add-on items.
